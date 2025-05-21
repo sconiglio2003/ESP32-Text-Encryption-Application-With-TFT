@@ -1,12 +1,18 @@
 # ESP32-Text-Encryption-Application-With-TFT
 Author: Samuel R. Coniglio
+
 Language: Arduino C++
+
 Hardware: ESP-D0WD-V3
+
 IDE: Arduino IDE, Nightly Edition
 
-Encrypt and decrypt text via the ESP32
+Purpose: 
+  Encrypt and decrypt text via the ESP32
+  Brute force guess words. 
 
 Functionality: 
+
   Encrypt Text
   Decrypt Text
   Brute Force Word Guesser
