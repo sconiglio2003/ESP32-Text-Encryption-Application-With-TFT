@@ -7,12 +7,12 @@ Hardware: ESP-D0WD-V3
 
 IDE: Arduino IDE, Nightly Edition
 
-Purpose: 
-  Encrypt and decrypt text via the ESP32
+**Purpose: 
+**  Encrypt and decrypt text via the ESP32
   Brute force guess words. 
 
-Functionality: 
-
+**Functionality: 
+**
   Encrypt Text
   Decrypt Text
   Brute Force Word Guesser
